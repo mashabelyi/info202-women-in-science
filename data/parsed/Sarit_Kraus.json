@@ -1,0 +1,25 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Sarit_Kraus",
+    "name": "Sarit Kraus",
+    "has_infobox": true,
+    "born": "1960Jerusalem, Israel",
+    "text": "",
+    "links": {
+        "Hebrew language": "/wiki/Hebrew_language",
+        "Professor": "/wiki/Professor",
+        "Computer science": "/wiki/Computer_science",
+        "Bar-Ilan University": "/wiki/Bar-Ilan_University",
+        "Israel": "/wiki/Israel",
+        "University of Maryland": "/wiki/University_of_Maryland",
+        "Hebrew University of Jerusalem": "/wiki/Hebrew_University_of_Jerusalem",
+        "Wikipedia:Citation needed": "/wiki/Wikipedia:Citation_needed",
+        "Multiagent systems": "/wiki/Multiagent_systems",
+        "Non-monotonic reasoning": "/wiki/Non-monotonic_reasoning",
+        "Game Theory": "/wiki/Game_Theory",
+        "Artificial Intelligence": "/wiki/Artificial_Intelligence",
+        "Machine learning": "/wiki/Machine_learning",
+        "Distributed Artificial Intelligence": "/wiki/Distributed_Artificial_Intelligence",
+        "Barbara J. Grosz": "/wiki/Barbara_J._Grosz",
+        "DBLP": "/wiki/DBLP"
+    }
+}

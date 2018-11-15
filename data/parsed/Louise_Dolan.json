@@ -1,0 +1,25 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Louise_Dolan",
+    "name": "Louise Dolan",
+    "has_infobox": true,
+    "born": "Wilmington, Delaware",
+    "text": "",
+    "links": {
+        "University of North Carolina at Chapel Hill": "/wiki/University_of_North_Carolina_at_Chapel_Hill",
+        "String theory": "/wiki/String_theory",
+        "Wellesley College": "/wiki/Wellesley_College",
+        "Fulbright Program": "/wiki/Fulbright_Program",
+        "University of Heidelberg": "/wiki/University_of_Heidelberg",
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology",
+        "Harvard Society of Fellows": "/wiki/Harvard_Society_of_Fellows",
+        "Harvard University": "/wiki/Harvard_University",
+        "Rockefeller University": "/wiki/Rockefeller_University",
+        "Phase transition": "/wiki/Phase_transition",
+        "Affine Lie algebra": "/wiki/Affine_Lie_algebra",
+        "Particle physics": "/wiki/Particle_physics",
+        "Type II string theory": "/wiki/Type_II_string_theory",
+        "Gauge theory": "/wiki/Gauge_theory",
+        "American Physical Society": "/wiki/American_Physical_Society",
+        "Quantum mechanics": "/wiki/Quantum_mechanics"
+    }
+}

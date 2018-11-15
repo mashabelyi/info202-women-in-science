@@ -1,0 +1,25 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Daniela_L._Rus",
+    "name": "Daniela L. Rus",
+    "has_infobox": true,
+    "born": "1963 (age\u00a054\u201355)Cluj-Napoca,  Romania",
+    "text": "",
+    "links": {
+        "Cluj-Napoca": "/wiki/Cluj-Napoca",
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology",
+        "Cornell University": "/wiki/Cornell_University",
+        "John Hopcroft": "/wiki/John_Hopcroft",
+        "Dartmouth College": "/wiki/Dartmouth_College",
+        "MIT Computer Science and Artificial Intelligence Laboratory": "/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory",
+        "National Academy of Engineering": "/wiki/National_Academy_of_Engineering",
+        "AAAI": "/wiki/AAAI",
+        "IEEE": "/wiki/IEEE",
+        "Sloan Fellowship": "/wiki/Sloan_Fellowship",
+        "MacArthur Fellowship": "/wiki/MacArthur_Fellowship",
+        "Programmable matter": "/wiki/Programmable_matter",
+        "Modular and self-reconfiguring robots": "/wiki/Modular_and_self-reconfiguring_robots",
+        "Distributed algorithms": "/wiki/Distributed_algorithms",
+        "Autonomous underwater vehicle": "/wiki/Autonomous_underwater_vehicle",
+        "Agricultural robot": "/wiki/Agricultural_robot"
+    }
+}

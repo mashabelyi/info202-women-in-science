@@ -1,0 +1,18 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Hava_Siegelmann",
+    "name": "Hava Siegelmann",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Computer science": "/wiki/Computer_science",
+        "University of Massachusetts Amherst": "/wiki/University_of_Massachusetts_Amherst",
+        "DARPA": "/wiki/DARPA",
+        "Super-Turing computation": "/wiki/Super-Turing_computation",
+        "Eduardo D. Sontag": "/wiki/Eduardo_D._Sontag",
+        "Universal Turing machine": "/wiki/Universal_Turing_machine",
+        "Neural network": "/wiki/Neural_network",
+        "Science (journal)": "/wiki/Science_(journal)",
+        "Vladimir Vapnik": "/wiki/Vladimir_Vapnik",
+        "Dynamical system": "/wiki/Dynamical_system"
+    }
+}

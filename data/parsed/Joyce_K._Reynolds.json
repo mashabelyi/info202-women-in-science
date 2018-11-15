@@ -1,0 +1,25 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Joyce_K._Reynolds",
+    "name": "Joyce K. Reynolds",
+    "has_infobox": true,
+    "died": "(2015-12-28)28 December 2015",
+    "text": "",
+    "links": {
+        "Computer scientist": "/wiki/Computer_scientist",
+        "Protocol (computing)": "/wiki/Protocol_(computing)",
+        "Internet": "/wiki/Internet",
+        "Request for Comments": "/wiki/Request_for_Comments",
+        "Telnet": "/wiki/Telnet",
+        "FTP": "/wiki/FTP",
+        "Post Office Protocol": "/wiki/Post_Office_Protocol",
+        "University of Southern California": "/wiki/University_of_Southern_California",
+        "Jon Postel": "/wiki/Jon_Postel",
+        "Internet Assigned Numbers Authority": "/wiki/Internet_Assigned_Numbers_Authority",
+        "ICANN": "/wiki/ICANN",
+        "Information Sciences Institute": "/wiki/Information_Sciences_Institute",
+        "IESG": "/wiki/IESG",
+        "IETF": "/wiki/IETF",
+        "Bob Braden": "/wiki/Bob_Braden",
+        "Postel Award": "/wiki/Postel_Award"
+    }
+}

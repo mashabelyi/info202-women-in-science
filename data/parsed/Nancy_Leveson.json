@@ -1,0 +1,23 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Nancy_Leveson",
+    "name": "Nancy Leveson",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "System safety": "/wiki/System_safety",
+        "MIT": "/wiki/MIT",
+        "United States": "/wiki/United_States",
+        "UCLA": "/wiki/UCLA",
+        "University of California, Irvine": "/wiki/University_of_California,_Irvine",
+        "University of Washington": "/wiki/University_of_Washington",
+        "Safety-critical system": "/wiki/Safety-critical_system",
+        "Traffic Collision Avoidance System": "/wiki/Traffic_Collision_Avoidance_System",
+        "Therac-25": "/wiki/Therac-25",
+        "IEEE Transactions on Software Engineering": "/wiki/IEEE_Transactions_on_Software_Engineering",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Institute of Electrical and Electronics Engineers": "/wiki/Institute_of_Electrical_and_Electronics_Engineers",
+        "IEEE Computer Society": "/wiki/IEEE_Computer_Society",
+        "American Institute of Aeronautics and Astronautics": "/wiki/American_Institute_of_Aeronautics_and_Astronautics",
+        "Astronautics": "/wiki/Astronautics"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Klara_Kedem",
+    "name": "Klara Kedem",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "Israel": "/wiki/Israel",
+        "Ben-Gurion University": "/wiki/Ben-Gurion_University",
+        "Beersheba": "/wiki/Beersheba",
+        "Cornell University": "/wiki/Cornell_University",
+        "Ithaca, New York": "/wiki/Ithaca,_New_York",
+        "Tel Aviv University": "/wiki/Tel_Aviv_University",
+        "Micha Sharir": "/wiki/Micha_Sharir",
+        "Computational geometry": "/wiki/Computational_geometry",
+        "Motion planning": "/wiki/Motion_planning",
+        "Voronoi diagram": "/wiki/Voronoi_diagram"
+    }
+}

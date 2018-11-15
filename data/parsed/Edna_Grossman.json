@@ -1,0 +1,23 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Edna_Grossman",
+    "name": "Edna Grossman",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "Germany": "/wiki/Germany",
+        "Brooklyn": "/wiki/Brooklyn",
+        "New York City": "/wiki/New_York_City",
+        "Brooklyn College": "/wiki/Brooklyn_College",
+        "New York University": "/wiki/New_York_University",
+        "Courant Institute of Mathematical Sciences": "/wiki/Courant_Institute_of_Mathematical_Sciences",
+        "Ph.D.": "/wiki/Ph.D.",
+        "Wilhelm Magnus": "/wiki/Wilhelm_Magnus",
+        "Symmetry": "/wiki/Symmetry",
+        "Free group": "/wiki/Free_group",
+        "IBM": "/wiki/IBM",
+        "Data Encryption Standard": "/wiki/Data_Encryption_Standard",
+        "Bryant Tuckerman": "/wiki/Bryant_Tuckerman",
+        "Slide attack": "/wiki/Slide_attack",
+        "Cryptanalysis": "/wiki/Cryptanalysis"
+    }
+}

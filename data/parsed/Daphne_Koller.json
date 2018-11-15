@@ -1,0 +1,30 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Daphne_Koller",
+    "name": "Daphne Koller",
+    "has_infobox": true,
+    "born": " (1968-08-27) August 27, 1968 (age\u00a050)",
+    "text": "",
+    "links": {
+        "Professor": "/wiki/Professor",
+        "Computer Science": "/wiki/Computer_Science",
+        "Stanford University": "/wiki/Stanford_University",
+        "MacArthur Foundation": "/wiki/MacArthur_Foundation",
+        "Coursera": "/wiki/Coursera",
+        "Artificial intelligence": "/wiki/Artificial_intelligence",
+        "Biomedical sciences": "/wiki/Biomedical_sciences",
+        "Technology Review": "/wiki/Technology_Review",
+        "Bayesian network": "/wiki/Bayesian_network",
+        "Hebrew University of Jerusalem": "/wiki/Hebrew_University_of_Jerusalem",
+        "Joseph Halpern": "/wiki/Joseph_Halpern",
+        "University of California, Berkeley": "/wiki/University_of_California,_Berkeley",
+        "MacArthur Fellow": "/wiki/MacArthur_Fellow",
+        "National Academy of Engineering": "/wiki/National_Academy_of_Engineering",
+        "American Academy of Arts and Sciences": "/wiki/American_Academy_of_Arts_and_Sciences",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Infosys": "/wiki/Infosys",
+        "Graphical model": "/wiki/Graphical_model",
+        "Nir Friedman": "/wiki/Nir_Friedman",
+        "Andrew Ng": "/wiki/Andrew_Ng",
+        "Calico (company)": "/wiki/Calico_(company)"
+    }
+}

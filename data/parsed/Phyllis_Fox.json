@@ -1,0 +1,28 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Phyllis_Fox",
+    "name": "Phyllis Fox",
+    "has_infobox": true,
+    "born": "1923Colorado",
+    "text": "",
+    "links": {
+        "Colorado": "/wiki/Colorado",
+        "Wellesley College": "/wiki/Wellesley_College",
+        "General Electric": "/wiki/General_Electric",
+        "Differential analyser": "/wiki/Differential_analyser",
+        "University of Colorado": "/wiki/University_of_Colorado",
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology",
+        "Chia-Chiao Lin": "/wiki/Chia-Chiao_Lin",
+        "Whirlwind I": "/wiki/Whirlwind_I",
+        "Jay Forrester": "/wiki/Jay_Forrester",
+        "Partial differential equations": "/wiki/Partial_differential_equations",
+        "Univac": "/wiki/Univac",
+        "United States Atomic Energy Commission": "/wiki/United_States_Atomic_Energy_Commission",
+        "Courant Institute of Mathematical Sciences": "/wiki/Courant_Institute_of_Mathematical_Sciences",
+        "New York University": "/wiki/New_York_University",
+        "System dynamics": "/wiki/System_dynamics",
+        "DYNAMO (programming language)": "/wiki/DYNAMO_(programming_language)",
+        "LISP": "/wiki/LISP",
+        "New Jersey Institute of Technology": "/wiki/New_Jersey_Institute_of_Technology",
+        "Bell Labs": "/wiki/Bell_Labs"
+    }
+}

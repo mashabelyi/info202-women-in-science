@@ -1,0 +1,29 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Sally_Shlaer",
+    "name": "Sally Shlaer",
+    "has_infobox": true,
+    "born": "(1938-12-03)December 3, 1938Cleveland, Ohio",
+    "died": "November 12, 1998(1998-11-12) (aged\u00a059)Berkeley, California",
+    "text": "",
+    "links": {
+        "Mathematician": "/wiki/Mathematician",
+        "Software engineer": "/wiki/Software_engineer",
+        "Methodology": "/wiki/Methodology",
+        "Shlaer\u2013Mellor method": "/wiki/Shlaer%E2%80%93Mellor_method",
+        "Cleveland, Ohio": "/wiki/Cleveland,_Ohio",
+        "Mathematics": "/wiki/Mathematics",
+        "Stanford University": "/wiki/Stanford_University",
+        "Australian National University": "/wiki/Australian_National_University",
+        "Fortran": "/wiki/Fortran",
+        "Assembly language": "/wiki/Assembly_language",
+        "Los Alamos National Laboratory": "/wiki/Los_Alamos_National_Laboratory",
+        "Lawrence Berkeley Laboratory": "/wiki/Lawrence_Berkeley_Laboratory",
+        "Bay Area Rapid Transit System": "/wiki/Bay_Area_Rapid_Transit_System",
+        "Stephen J. Mellor": "/wiki/Stephen_J._Mellor",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Software development": "/wiki/Software_development",
+        "Control system": "/wiki/Control_system",
+        "Project management": "/wiki/Project_management",
+        "Executable UML": "/wiki/Executable_UML"
+    }
+}

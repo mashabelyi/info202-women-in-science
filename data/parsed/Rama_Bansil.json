@@ -1,0 +1,20 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Rama_Bansil",
+    "name": "Rama Bansil",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Boston University": "/wiki/Boston_University",
+        "Polymer": "/wiki/Polymer",
+        "Photonics": "/wiki/Photonics",
+        "Nanoscience": "/wiki/Nanoscience",
+        "Biophysics": "/wiki/Biophysics",
+        "Biochemistry": "/wiki/Biochemistry",
+        "University of Rochester": "/wiki/University_of_Rochester",
+        "Delhi University": "/wiki/Delhi_University",
+        "National Science Foundation": "/wiki/National_Science_Foundation",
+        "Harvard University": "/wiki/Harvard_University",
+        "Radcliffe College": "/wiki/Radcliffe_College",
+        "H. pylori": "/wiki/H._pylori"
+    }
+}

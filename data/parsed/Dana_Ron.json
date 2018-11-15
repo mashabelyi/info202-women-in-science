@@ -1,0 +1,26 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Dana_Ron",
+    "name": "Dana Ron",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Hebrew language": "/wiki/Hebrew_language",
+        "Computer scientist": "/wiki/Computer_scientist",
+        "Professor": "/wiki/Professor",
+        "Electrical engineering": "/wiki/Electrical_engineering",
+        "Tel Aviv University": "/wiki/Tel_Aviv_University",
+        "Israel": "/wiki/Israel",
+        "Property testing": "/wiki/Property_testing",
+        "Hebrew University": "/wiki/Hebrew_University",
+        "Machine learning": "/wiki/Machine_learning",
+        "MIT": "/wiki/MIT",
+        "Harvard University": "/wiki/Harvard_University",
+        "Time complexity": "/wiki/Time_complexity",
+        "Algorithm": "/wiki/Algorithm",
+        "Randomized algorithm": "/wiki/Randomized_algorithm",
+        "Computational learning theory": "/wiki/Computational_learning_theory",
+        "Oded Goldreich": "/wiki/Oded_Goldreich",
+        "Weizmann Institute": "/wiki/Weizmann_Institute",
+        "Approximation algorithm": "/wiki/Approximation_algorithm"
+    }
+}

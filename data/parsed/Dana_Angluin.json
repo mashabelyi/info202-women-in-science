@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Dana_Angluin",
+    "name": "Dana Angluin",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Computer science": "/wiki/Computer_science",
+        "Yale University": "/wiki/Yale_University",
+        "Computational learning theory": "/wiki/Computational_learning_theory",
+        "University of California, Berkeley": "/wiki/University_of_California,_Berkeley",
+        "Computational complexity theory": "/wiki/Computational_complexity_theory",
+        "Inductive inference": "/wiki/Inductive_inference",
+        "Information and Computation": "/wiki/Information_and_Computation",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Association for Women in Mathematics": "/wiki/Association_for_Women_in_Mathematics",
+        "Ada Lovelace": "/wiki/Ada_Lovelace",
+        "Analytical Engine": "/wiki/Analytical_Engine"
+    }
+}

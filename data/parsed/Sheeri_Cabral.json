@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Sheeri_Cabral",
+    "name": "Sheeri Cabral",
+    "has_infobox": true,
+    "born": "Sheeri Kritzer (1978-09-17) 17 September 1978 (age\u00a040)Ridgewood, NJ",
+    "text": "",
+    "links": {
+        "MySQL": "/wiki/MySQL",
+        "Oracle Corporation": "/wiki/Oracle_Corporation",
+        "O'Reilly Media": "/wiki/O%27Reilly_Media",
+        "Christopher J. Date": "/wiki/Christopher_J._Date",
+        "Brandeis University": "/wiki/Brandeis_University",
+        "Tufts University": "/wiki/Tufts_University",
+        "Manhunt.net": "/wiki/Manhunt.net",
+        "Pythian Group": "/wiki/Pythian_Group",
+        "Mozilla Corporation": "/wiki/Mozilla_Corporation",
+        "Salesforce": "/wiki/Salesforce"
+    }
+}

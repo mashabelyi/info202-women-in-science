@@ -1,0 +1,14 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Lilian_Gibbs",
+    "name": "Lilian Gibbs",
+    "has_infobox": true,
+    "born": "10 September 1870London, United Kingdom",
+    "died": "30 January 1925Santa Cruz de Tenerife",
+    "text": "",
+    "links": {
+        "United Kingdom": "/wiki/United_Kingdom",
+        "British Museum": "/wiki/British_Museum",
+        "London": "/wiki/London",
+        "Mount Kinabalu": "/wiki/Mount_Kinabalu"
+    }
+}

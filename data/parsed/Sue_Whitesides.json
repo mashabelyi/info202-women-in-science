@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Sue_Whitesides",
+    "name": "Sue Whitesides",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "Canada": "/wiki/Canada",
+        "University of Victoria": "/wiki/University_of_Victoria",
+        "British Columbia": "/wiki/British_Columbia",
+        "Computational geometry": "/wiki/Computational_geometry",
+        "Graph drawing": "/wiki/Graph_drawing",
+        "University of Wisconsin\u2013Madison": "/wiki/University_of_Wisconsin%E2%80%93Madison",
+        "Richard Bruck": "/wiki/Richard_Bruck",
+        "Dartmouth College": "/wiki/Dartmouth_College",
+        "McGill University": "/wiki/McGill_University",
+        "International Symposium on Graph Drawing": "/wiki/International_Symposium_on_Graph_Drawing",
+        "Symposium on Computational Geometry": "/wiki/Symposium_on_Computational_Geometry"
+    }
+}

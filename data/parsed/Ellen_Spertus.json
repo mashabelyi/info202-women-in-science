@@ -1,0 +1,29 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Ellen_Spertus",
+    "name": "Ellen Spertus",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Professor": "/wiki/Professor",
+        "Computer Science": "/wiki/Computer_Science",
+        "Mills College": "/wiki/Mills_College",
+        "Oakland, California": "/wiki/Oakland,_California",
+        "Google": "/wiki/Google",
+        "Glencoe, Illinois": "/wiki/Glencoe,_Illinois",
+        "Illinois": "/wiki/Illinois",
+        "New Trier High School": "/wiki/New_Trier_High_School",
+        "MIT": "/wiki/MIT",
+        "B.S.": "/wiki/B.S.",
+        "Computer Science and Engineering": "/wiki/Computer_Science_and_Engineering",
+        "Master's degree": "/wiki/Master%27s_degree",
+        "Electrical Engineering and Computer Science": "/wiki/Electrical_Engineering_and_Computer_Science",
+        "Ph.D.": "/wiki/Ph.D.",
+        "Microsoft": "/wiki/Microsoft",
+        "The New York Times": "/wiki/The_New_York_Times",
+        "Google App Inventor": "/wiki/Google_App_Inventor",
+        "O'Reilly Media": "/wiki/O%27Reilly_Media",
+        "Hal Abelson": "/wiki/Hal_Abelson",
+        "General Motors EV1": "/wiki/General_Motors_EV1",
+        "Blockly": "/wiki/Blockly"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Carolyn_Talcott",
+    "name": "Carolyn Talcott",
+    "has_infobox": true,
+    "born": " (1941-06-14) June 14, 1941 (age\u00a077)[1]Caldwell, Idaho",
+    "text": "",
+    "links": {
+        "Automated reasoning": "/wiki/Automated_reasoning",
+        "Cryptanalysis": "/wiki/Cryptanalysis",
+        "Systems biology": "/wiki/Systems_biology",
+        "SRI International": "/wiki/SRI_International",
+        "Higher-Order and Symbolic Computation": "/wiki/Higher-Order_and_Symbolic_Computation",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Association for Symbolic Logic": "/wiki/Association_for_Symbolic_Logic"
+    }
+}

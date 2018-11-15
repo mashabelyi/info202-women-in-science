@@ -1,0 +1,24 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Lois_Haibt",
+    "name": "Lois Haibt",
+    "has_infobox": true,
+    "born": "Lois Mitchell1934Chicago, Illinois",
+    "text": "",
+    "links": {
+        "Computer scientist": "/wiki/Computer_scientist",
+        "IBM": "/wiki/IBM",
+        "Fortran": "/wiki/Fortran",
+        "Programming language": "/wiki/Programming_language",
+        "Vassar College": "/wiki/Vassar_College",
+        "Bell Laboratories": "/wiki/Bell_Laboratories",
+        "IBM 704": "/wiki/IBM_704",
+        "Columbia University": "/wiki/Columbia_University",
+        "Mathematical Association of America": "/wiki/Mathematical_Association_of_America",
+        "Compiler": "/wiki/Compiler",
+        "Monte Carlo method": "/wiki/Monte_Carlo_method",
+        "Parsing": "/wiki/Parsing",
+        "Thornwood, NY": "/wiki/Thornwood,_NY",
+        "Princeton University": "/wiki/Princeton_University",
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology"
+    }
+}

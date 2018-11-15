@@ -1,0 +1,31 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Anna_Karlin",
+    "name": "Anna Karlin",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "University of Washington": "/wiki/University_of_Washington",
+        "Samuel Karlin": "/wiki/Samuel_Karlin",
+        "Stanford University": "/wiki/Stanford_University",
+        "Johns Hopkins University": "/wiki/Johns_Hopkins_University",
+        "Jeffrey Ullman": "/wiki/Jeffrey_Ullman",
+        "DEC Systems Research Center": "/wiki/DEC_Systems_Research_Center",
+        "Symposium on Foundations of Computer Science": "/wiki/Symposium_on_Foundations_of_Computer_Science",
+        "Severe Tire Damage (band)": "/wiki/Severe_Tire_Damage_(band)",
+        "Online algorithm": "/wiki/Online_algorithm",
+        "Randomized algorithm": "/wiki/Randomized_algorithm",
+        "Algorithmic game theory": "/wiki/Algorithmic_game_theory",
+        "System software": "/wiki/System_software",
+        "Distributed computing": "/wiki/Distributed_computing",
+        "Data mining": "/wiki/Data_mining",
+        "IP traceback": "/wiki/IP_traceback",
+        "Competitive analysis (online algorithm)": "/wiki/Competitive_analysis_(online_algorithm)",
+        "Multiprocessor": "/wiki/Multiprocessor",
+        "Cache coherence": "/wiki/Cache_coherence",
+        "Memory hierarchy": "/wiki/Memory_hierarchy",
+        "Proxy server": "/wiki/Proxy_server",
+        "Hash table": "/wiki/Hash_table",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "American Academy of Arts and Sciences": "/wiki/American_Academy_of_Arts_and_Sciences"
+    }
+}

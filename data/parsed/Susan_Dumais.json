@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Susan_Dumais",
+    "name": "Susan Dumais",
+    "has_infobox": true,
+    "born": "Maine, US",
+    "text": "",
+    "links": {
+        "Microsoft Research": "/wiki/Microsoft_Research",
+        "University of Washington Information School": "/wiki/University_of_Washington_Information_School",
+        "Telcordia Technologies": "/wiki/Telcordia_Technologies",
+        "Information retrieval": "/wiki/Information_retrieval",
+        "Latent Semantic Indexing": "/wiki/Latent_Semantic_Indexing",
+        "Fellow": "/wiki/Fellow",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Gerard Salton Award": "/wiki/Gerard_Salton_Award",
+        "National Academy of Engineering": "/wiki/National_Academy_of_Engineering",
+        "American Academy of Arts and Sciences": "/wiki/American_Academy_of_Arts_and_Sciences"
+    }
+}

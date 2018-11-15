@@ -1,0 +1,17 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Angela_Orebaugh",
+    "name": "Angela Orebaugh",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "National Institute of Standards and Technology": "/wiki/National_Institute_of_Standards_and_Technology",
+        "Wireshark": "/wiki/Wireshark",
+        "SANS Institute": "/wiki/SANS_Institute",
+        "National Vulnerability Database": "/wiki/National_Vulnerability_Database",
+        "Security Content Automation Protocol": "/wiki/Security_Content_Automation_Protocol",
+        "Intrusion detection": "/wiki/Intrusion_detection",
+        "Data mining": "/wiki/Data_mining",
+        "Network forensics": "/wiki/Network_forensics",
+        "Booz Allen Hamilton": "/wiki/Booz_Allen_Hamilton"
+    }
+}

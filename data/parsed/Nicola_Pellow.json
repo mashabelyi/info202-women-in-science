@@ -1,0 +1,22 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Nicola_Pellow",
+    "name": "Nicola Pellow",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "CERN": "/wiki/CERN",
+        "Tim Berners-Lee": "/wiki/Tim_Berners-Lee",
+        "Sandwich course": "/wiki/Sandwich_course",
+        "De Montfort University": "/wiki/De_Montfort_University",
+        "Pascal (programming language)": "/wiki/Pascal_(programming_language)",
+        "Fortran": "/wiki/Fortran",
+        "WorldWideWeb": "/wiki/WorldWideWeb",
+        "Web browser": "/wiki/Web_browser",
+        "NeXT": "/wiki/NeXT",
+        "C (programming language)": "/wiki/C_(programming_language)",
+        "Line Mode Browser": "/wiki/Line_Mode_Browser",
+        "Robert Cailliau": "/wiki/Robert_Cailliau",
+        "MacWWW": "/wiki/MacWWW",
+        "Classic Mac OS": "/wiki/Classic_Mac_OS"
+    }
+}

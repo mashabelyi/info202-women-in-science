@@ -1,0 +1,29 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Dana_Randall",
+    "name": "Dana Randall",
+    "has_infobox": true,
+    "born": "Queens, New York City",
+    "text": "",
+    "links": {
+        "Theoretical computer science": "/wiki/Theoretical_computer_science",
+        "Georgia Tech": "/wiki/Georgia_Tech",
+        "Queens, New York": "/wiki/Queens,_New_York",
+        "New York City": "/wiki/New_York_City",
+        "Stuyvesant High School": "/wiki/Stuyvesant_High_School",
+        "Harvard University": "/wiki/Harvard_University",
+        "University of California, Berkeley": "/wiki/University_of_California,_Berkeley",
+        "Alistair Sinclair": "/wiki/Alistair_Sinclair",
+        "Lisa Randall": "/wiki/Lisa_Randall",
+        "Algorithm": "/wiki/Algorithm",
+        "Counting problem (complexity)": "/wiki/Counting_problem_(complexity)",
+        "Markov chain": "/wiki/Markov_chain",
+        "American Mathematical Society": "/wiki/American_Mathematical_Society",
+        "Arnold Ross": "/wiki/Arnold_Ross",
+        "Barry Mazur": "/wiki/Barry_Mazur",
+        "Elwyn Berlekamp": "/wiki/Elwyn_Berlekamp",
+        "Ken Ribet": "/wiki/Ken_Ribet",
+        "Manjul Bhargava": "/wiki/Manjul_Bhargava",
+        "David Kelly (mathematician)": "/wiki/David_Kelly_(mathematician)",
+        "Paul Sally": "/wiki/Paul_Sally"
+    }
+}

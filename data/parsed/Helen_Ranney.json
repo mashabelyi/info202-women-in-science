@@ -1,0 +1,22 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Helen_Ranney",
+    "name": "Helen Ranney",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "Physician": "/wiki/Physician",
+        "Hematologist": "/wiki/Hematologist",
+        "Sickle-cell anemia": "/wiki/Sickle-cell_anemia",
+        "Barnard College": "/wiki/Barnard_College",
+        "Columbia University": "/wiki/Columbia_University",
+        "Harvard Medical School": "/wiki/Harvard_Medical_School",
+        "Brigham and Women's Hospital": "/wiki/Brigham_and_Women%27s_Hospital",
+        "Association of American Physicians": "/wiki/Association_of_American_Physicians",
+        "Hemoglobin": "/wiki/Hemoglobin",
+        "Albert Einstein College of Medicine": "/wiki/Albert_Einstein_College_of_Medicine",
+        "University of California, San Diego School of Medicine": "/wiki/University_of_California,_San_Diego_School_of_Medicine",
+        "National Academy of Sciences": "/wiki/National_Academy_of_Sciences",
+        "Institute of Medicine": "/wiki/Institute_of_Medicine",
+        "American Academy of Arts and Sciences": "/wiki/American_Academy_of_Arts_and_Sciences"
+    }
+}

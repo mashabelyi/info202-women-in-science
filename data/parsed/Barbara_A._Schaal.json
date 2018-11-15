@@ -1,0 +1,31 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Barbara_A._Schaal",
+    "name": "Barbara A. Schaal",
+    "has_infobox": true,
+    "born": "1947Berlin, Germany",
+    "text": "",
+    "links": {
+        "Berlin": "/wiki/Berlin",
+        "Germany": "/wiki/Germany",
+        "United States": "/wiki/United_States",
+        "Scientist": "/wiki/Scientist",
+        "Evolutionary biologist": "/wiki/Evolutionary_biologist",
+        "Professor": "/wiki/Professor",
+        "Washington University in St. Louis": "/wiki/Washington_University_in_St._Louis",
+        "United States National Academy of Sciences": "/wiki/United_States_National_Academy_of_Sciences",
+        "President's Council of Advisors on Science and Technology": "/wiki/President%27s_Council_of_Advisors_on_Science_and_Technology",
+        "Chicago": "/wiki/Chicago",
+        "University of Illinois, Chicago": "/wiki/University_of_Illinois,_Chicago",
+        "Biology": "/wiki/Biology",
+        "Yale University": "/wiki/Yale_University",
+        "University of Houston": "/wiki/University_of_Houston",
+        "Ohio State University": "/wiki/Ohio_State_University",
+        "Tyson Research Center": "/wiki/Tyson_Research_Center",
+        "Botanical Society of America": "/wiki/Botanical_Society_of_America",
+        "Society for the Study of Evolution": "/wiki/Society_for_the_Study_of_Evolution",
+        "Genetics": "/wiki/Genetics",
+        "Gene flow": "/wiki/Gene_flow",
+        "Domestication": "/wiki/Domestication",
+        "American Association for the Advancement of Science": "/wiki/American_Association_for_the_Advancement_of_Science"
+    }
+}

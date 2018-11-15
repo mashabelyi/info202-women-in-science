@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Allison_Randal",
+    "name": "Allison Randal",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Parrot virtual machine": "/wiki/Parrot_virtual_machine",
+        "The Perl Foundation": "/wiki/The_Perl_Foundation",
+        "Python Software Foundation": "/wiki/Python_Software_Foundation",
+        "Parrot Foundation": "/wiki/Parrot_Foundation",
+        "Punie": "/wiki/Punie",
+        "O'Reilly Media": "/wiki/O%27Reilly_Media",
+        "Canonical Ltd": "/wiki/Canonical_Ltd",
+        "O'Reilly Open Source Convention": "/wiki/O%27Reilly_Open_Source_Convention",
+        "Open Source Initiative": "/wiki/Open_Source_Initiative",
+        "Simon Phipps (programmer)": "/wiki/Simon_Phipps_(programmer)",
+        "OpenStack": "/wiki/OpenStack"
+    }
+}

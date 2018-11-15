@@ -1,0 +1,33 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Stormy_Peters",
+    "name": "Stormy Peters",
+    "has_infobox": true,
+    "born": "Robyn Peters",
+    "text": "",
+    "links": {
+        "Information technology": "/wiki/Information_technology",
+        "Industry analyst": "/wiki/Industry_analyst",
+        "Free and open source software": "/wiki/Free_and_open_source_software",
+        "Executive director": "/wiki/Executive_director",
+        "GNOME Foundation": "/wiki/GNOME_Foundation",
+        "Mozilla Corporation": "/wiki/Mozilla_Corporation",
+        "Cloud Foundry": "/wiki/Cloud_Foundry",
+        "Red Hat": "/wiki/Red_Hat",
+        "Bachelor of Arts": "/wiki/Bachelor_of_Arts",
+        "Computer science": "/wiki/Computer_science",
+        "Rice University": "/wiki/Rice_University",
+        "Software engineer": "/wiki/Software_engineer",
+        "Hewlett-Packard": "/wiki/Hewlett-Packard",
+        "Unix": "/wiki/Unix",
+        "HP-UX": "/wiki/HP-UX",
+        "GNOME": "/wiki/GNOME",
+        "Intellectual property": "/wiki/Intellectual_property",
+        "Business development": "/wiki/Business_development",
+        "Marketing": "/wiki/Marketing",
+        "Keynote": "/wiki/Keynote",
+        "Linux.conf.au": "/wiki/Linux.conf.au",
+        "Beijing": "/wiki/Beijing",
+        "Ho Chi Minh City": "/wiki/Ho_Chi_Minh_City",
+        "Ohio Linuxfest": "/wiki/Ohio_Linuxfest"
+    }
+}

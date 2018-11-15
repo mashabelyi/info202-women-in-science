@@ -1,0 +1,26 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Colette_Rolland",
+    "name": "Colette Rolland",
+    "has_infobox": true,
+    "born": "1943Dieupentale, Tarn-et-Garonne, France",
+    "text": "",
+    "links": {
+        "Dieupentale": "/wiki/Dieupentale",
+        "Tarn-et-Garonne": "/wiki/Tarn-et-Garonne",
+        "France": "/wiki/France",
+        "French people": "/wiki/French_people",
+        "Computer scientist": "/wiki/Computer_scientist",
+        "University of Paris 1 Pantheon-Sorbonne": "/wiki/University_of_Paris_1_Pantheon-Sorbonne",
+        "Meta-modeling": "/wiki/Meta-modeling",
+        "University of Nancy": "/wiki/University_of_Nancy",
+        "IFIP": "/wiki/IFIP",
+        "Information modeling": "/wiki/Information_modeling",
+        "Databases": "/wiki/Databases",
+        "Data modeling": "/wiki/Data_modeling",
+        "Requirements engineering": "/wiki/Requirements_engineering",
+        "Method engineering": "/wiki/Method_engineering",
+        "Computer-aided software engineering": "/wiki/Computer-aided_software_engineering",
+        "Change management": "/wiki/Change_management",
+        "Enterprise modelling": "/wiki/Enterprise_modelling"
+    }
+}

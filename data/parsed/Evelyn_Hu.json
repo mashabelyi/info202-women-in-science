@@ -1,0 +1,30 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Evelyn_Hu",
+    "name": "Evelyn Hu",
+    "has_infobox": true,
+    "born": "New York City, New York, USA",
+    "text": "",
+    "links": {
+        "Chinese language": "/wiki/Chinese_language",
+        "Applied physics": "/wiki/Applied_physics",
+        "Harvard University": "/wiki/Harvard_University",
+        "New York City": "/wiki/New_York_City",
+        "Hunter College High School": "/wiki/Hunter_College_High_School",
+        "Barnard": "/wiki/Barnard",
+        "Columbia University": "/wiki/Columbia_University",
+        "Gordon McKay": "/wiki/Gordon_McKay",
+        "Nanostructures": "/wiki/Nanostructures",
+        "Quantum computing": "/wiki/Quantum_computing",
+        "Institute of Electrical and Electronics Engineers": "/wiki/Institute_of_Electrical_and_Electronics_Engineers",
+        "American Physical Society": "/wiki/American_Physical_Society",
+        "American Association for the Advancement of Science": "/wiki/American_Association_for_the_Advancement_of_Science",
+        "National Academy of Engineering": "/wiki/National_Academy_of_Engineering",
+        "United States National Academy of Sciences": "/wiki/United_States_National_Academy_of_Sciences",
+        "Harvard School of Engineering and Applied Sciences": "/wiki/Harvard_School_of_Engineering_and_Applied_Sciences",
+        "Gallium nitride": "/wiki/Gallium_nitride",
+        "Quantum dots": "/wiki/Quantum_dots",
+        "Nanophotonics": "/wiki/Nanophotonics",
+        "Smartphone": "/wiki/Smartphone",
+        "Heriot-Watt University": "/wiki/Heriot-Watt_University"
+    }
+}

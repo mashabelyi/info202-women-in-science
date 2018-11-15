@@ -1,0 +1,26 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Mary_Jane_Irwin",
+    "name": "Mary Jane Irwin",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Evan Pugh": "/wiki/Evan_Pugh",
+        "Professor": "/wiki/Professor",
+        "Pennsylvania State University": "/wiki/Pennsylvania_State_University",
+        "Computer architecture": "/wiki/Computer_architecture",
+        "B.S.": "/wiki/B.S.",
+        "Mathematics": "/wiki/Mathematics",
+        "Memphis State University": "/wiki/Memphis_State_University",
+        "M.S.": "/wiki/M.S.",
+        "Ph.D.": "/wiki/Ph.D.",
+        "Computer Science": "/wiki/Computer_Science",
+        "Assistant professor": "/wiki/Assistant_professor",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Microsoft": "/wiki/Microsoft",
+        "National Academy of Engineering": "/wiki/National_Academy_of_Engineering",
+        "Computing Research Association": "/wiki/Computing_Research_Association",
+        "CRA-W": "/wiki/CRA-W",
+        "American Academy of Arts and Sciences": "/wiki/American_Academy_of_Arts_and_Sciences",
+        "Chalmers University": "/wiki/Chalmers_University"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Jeannette_Wing",
+    "name": "Jeannette Wing",
+    "has_infobox": true,
+    "born": "Jeannette Marie Wing",
+    "text": "",
+    "links": {
+        "Columbia University": "/wiki/Columbia_University",
+        "Computer science": "/wiki/Computer_science",
+        "Microsoft Research": "/wiki/Microsoft_Research",
+        "Carnegie Mellon University": "/wiki/Carnegie_Mellon_University",
+        "Pittsburgh": "/wiki/Pittsburgh",
+        "Pennsylvania": "/wiki/Pennsylvania",
+        "United States": "/wiki/United_States",
+        "National Science Foundation": "/wiki/National_Science_Foundation",
+        "MIT": "/wiki/MIT",
+        "Ronald Rivest": "/wiki/Ronald_Rivest",
+        "John Guttag": "/wiki/John_Guttag",
+        "University of Southern California": "/wiki/University_of_Southern_California",
+        "Formal methods": "/wiki/Formal_methods",
+        "Larch family": "/wiki/Larch_family",
+        "Barbara Liskov": "/wiki/Barbara_Liskov",
+        "Liskov substitution principle": "/wiki/Liskov_substitution_principle",
+        "Computational thinking": "/wiki/Computational_thinking"
+    }
+}

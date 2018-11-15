@@ -1,0 +1,23 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Sally_Floyd",
+    "name": "Sally Floyd",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "International Computer Science Institute": "/wiki/International_Computer_Science_Institute",
+        "Berkeley, California": "/wiki/Berkeley,_California",
+        "Congestion control": "/wiki/Congestion_control",
+        "University of California - Berkeley": "/wiki/University_of_California_-_Berkeley",
+        "Random Early Detection": "/wiki/Random_Early_Detection",
+        "Internet router": "/wiki/Internet_router",
+        "Delay jitter": "/wiki/Delay_jitter",
+        "Network topology": "/wiki/Network_topology",
+        "Selective acknowledgement": "/wiki/Selective_acknowledgement",
+        "Explicit Congestion Notification": "/wiki/Explicit_Congestion_Notification",
+        "Datagram Congestion Control Protocol": "/wiki/Datagram_Congestion_Control_Protocol",
+        "TCP Friendly Rate Control": "/wiki/TCP_Friendly_Rate_Control",
+        "IEEE Internet Award": "/wiki/IEEE_Internet_Award",
+        "SIGCOMM Award": "/wiki/SIGCOMM_Award",
+        "Internet Advisory Board": "/wiki/Internet_Advisory_Board"
+    }
+}

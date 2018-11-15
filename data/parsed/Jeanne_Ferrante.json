@@ -1,0 +1,22 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Jeanne_Ferrante",
+    "name": "Jeanne Ferrante",
+    "has_infobox": true,
+    "text": "",
+    "links": {
+        "Computer scientist": "/wiki/Computer_scientist",
+        "Compiler": "/wiki/Compiler",
+        "Optimizing compiler": "/wiki/Optimizing_compiler",
+        "University of California, San Diego": "/wiki/University_of_California,_San_Diego",
+        "Hofstra University": "/wiki/Hofstra_University",
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology",
+        "Tufts University": "/wiki/Tufts_University",
+        "Program Dependence Graph": "/wiki/Program_Dependence_Graph",
+        "Static single assignment form": "/wiki/Static_single_assignment_form",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery",
+        "Institute of Electrical and Electronic Engineers": "/wiki/Institute_of_Electrical_and_Electronic_Engineers",
+        "Jacobs School of Engineering": "/wiki/Jacobs_School_of_Engineering",
+        "Fellow": "/wiki/Fellow",
+        "IEEE": "/wiki/IEEE"
+    }
+}

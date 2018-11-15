@@ -1,0 +1,27 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Nancy_Lynch",
+    "name": "Nancy Lynch",
+    "has_infobox": true,
+    "born": " (1948-01-19) January 19, 1948 (age\u00a070)Brooklyn, NY",
+    "text": "",
+    "links": {
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology",
+        "Electrical Engineering and Computer Science": "/wiki/Electrical_Engineering_and_Computer_Science",
+        "Brooklyn": "/wiki/Brooklyn",
+        "Brooklyn College": "/wiki/Brooklyn_College",
+        "Ph.D.": "/wiki/Ph.D.",
+        "Albert R. Meyer": "/wiki/Albert_R._Meyer",
+        "Tufts University": "/wiki/Tufts_University",
+        "University of Southern California": "/wiki/University_of_Southern_California",
+        "Georgia Institute of Technology": "/wiki/Georgia_Institute_of_Technology",
+        "Michael J. Fischer": "/wiki/Michael_J._Fischer",
+        "Mike Paterson": "/wiki/Mike_Paterson",
+        "Consensus (computer science)": "/wiki/Consensus_(computer_science)",
+        "PODC Influential-Paper Award": "/wiki/PODC_Influential-Paper_Award",
+        "Input/output automaton": "/wiki/Input/output_automaton",
+        "International Standard Book Number": "/wiki/International_Standard_Book_Number",
+        "Special:BookSources/9781558601048": "/wiki/Special:BookSources/9781558601048",
+        "Special:BookSources/978-1558603486": "/wiki/Special:BookSources/978-1558603486",
+        "Special:BookSources/9781608450039": "/wiki/Special:BookSources/9781608450039"
+    }
+}

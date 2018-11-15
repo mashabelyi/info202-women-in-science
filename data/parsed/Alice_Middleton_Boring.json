@@ -1,0 +1,27 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Alice_Middleton_Boring",
+    "name": "Alice Middleton Boring",
+    "has_infobox": true,
+    "born": "Philadelphia",
+    "died": "Cambridge, Massachusetts",
+    "text": "",
+    "links": {
+        "Philadelphia": "/wiki/Philadelphia",
+        "Cambridge, Massachusetts": "/wiki/Cambridge,_Massachusetts",
+        "Herpetology": "/wiki/Herpetology",
+        "Edwin Garrigues Boring": "/wiki/Edwin_Garrigues_Boring",
+        "Harvard University": "/wiki/Harvard_University",
+        "Bryn Mawr College": "/wiki/Bryn_Mawr_College",
+        "Bachelor of Arts": "/wiki/Bachelor_of_Arts",
+        "Thomas Hunt Morgan": "/wiki/Thomas_Hunt_Morgan",
+        "Nettie M. Stevens": "/wiki/Nettie_M._Stevens",
+        "Cell biology": "/wiki/Cell_biology",
+        "Genetics": "/wiki/Genetics",
+        "University of Maine": "/wiki/University_of_Maine",
+        "Peking Union Medical College": "/wiki/Peking_Union_Medical_College",
+        "Yenching University": "/wiki/Yenching_University",
+        "World War II": "/wiki/World_War_II",
+        "Attack on Pearl Harbor": "/wiki/Attack_on_Pearl_Harbor",
+        "Smith College": "/wiki/Smith_College"
+    }
+}

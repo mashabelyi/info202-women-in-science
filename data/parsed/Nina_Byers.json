@@ -1,0 +1,18 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Nina_Byers",
+    "name": "Nina Byers",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "University of California, Berkeley": "/wiki/University_of_California,_Berkeley",
+        "University of Chicago": "/wiki/University_of_Chicago",
+        "Particle physics": "/wiki/Particle_physics",
+        "Superconductivity": "/wiki/Superconductivity",
+        "Flux quantization": "/wiki/Flux_quantization",
+        "Cooper pairing": "/wiki/Cooper_pairing",
+        "BCS theory": "/wiki/BCS_theory",
+        "Byers-Yang theorem": "/wiki/Byers-Yang_theorem",
+        "American Physical Society": "/wiki/American_Physical_Society",
+        "American Association for the Advancement of Science": "/wiki/American_Association_for_the_Advancement_of_Science"
+    }
+}

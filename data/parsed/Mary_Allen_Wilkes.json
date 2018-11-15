@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Mary_Allen_Wilkes",
+    "name": "Mary Allen Wilkes",
+    "has_infobox": true,
+    "born": "September 25, 1937\u00a0(1937-09-25) (age\u00a081)",
+    "text": "",
+    "links": {
+        "LINC": "/wiki/LINC",
+        "Wellesley College": "/wiki/Wellesley_College",
+        "Massachusetts Institute of Technology": "/wiki/Massachusetts_Institute_of_Technology",
+        "Lincoln Laboratory": "/wiki/Lincoln_Laboratory",
+        "IBM 709": "/wiki/IBM_709",
+        "MIT Lincoln Laboratory": "/wiki/MIT_Lincoln_Laboratory",
+        "Wesley A. Clark": "/wiki/Wesley_A._Clark",
+        "TX-2": "/wiki/TX-2",
+        "Washington University in St. Louis": "/wiki/Washington_University_in_St._Louis",
+        "Severo Ornstein": "/wiki/Severo_Ornstein"
+    }
+}

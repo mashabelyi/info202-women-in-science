@@ -1,0 +1,32 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Monica_S._Lam",
+    "name": "Monica S. Lam",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "Stanford University": "/wiki/Stanford_University",
+        "Moka5": "/wiki/Moka5",
+        "University of British Columbia": "/wiki/University_of_British_Columbia",
+        "Carnegie Mellon University": "/wiki/Carnegie_Mellon_University",
+        "Compilers": "/wiki/Compilers",
+        "Program analysis": "/wiki/Program_analysis",
+        "Operating systems": "/wiki/Operating_systems",
+        "Security": "/wiki/Security",
+        "Computer architecture": "/wiki/Computer_architecture",
+        "High-performance computing": "/wiki/High-performance_computing",
+        "Asus Zen UI": "/wiki/Asus_Zen_UI#Versions",
+        "Software security": "/wiki/Software_security",
+        "Datalog": "/wiki/Datalog",
+        "Griffin": "/wiki/Griffin",
+        "SQL injection": "/wiki/SQL_injection",
+        "PQL": "/wiki/PQL",
+        "CRED": "/wiki/CRED",
+        "Compiler": "/wiki/Compiler",
+        "Systolic array": "/wiki/Systolic_array",
+        "VLIW": "/wiki/VLIW",
+        "Stanford DASH": "/wiki/Stanford_DASH",
+        "Distributed shared memory": "/wiki/Distributed_shared_memory",
+        "Tensilica": "/wiki/Tensilica",
+        "Association for Computing Machinery": "/wiki/Association_for_Computing_Machinery"
+    }
+}

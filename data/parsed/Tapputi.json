@@ -1,0 +1,17 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Tapputi",
+    "name": "Tapputi",
+    "has_infobox": false,
+    "text": "",
+    "links": {
+        "Chemist": "/wiki/Chemist",
+        "Perfume": "/wiki/Perfume",
+        "Cuneiform": "/wiki/Cuneiform",
+        "Babylon": "/wiki/Babylon",
+        "Mesopotamia": "/wiki/Mesopotamia",
+        "Acorus calamus": "/wiki/Acorus_calamus",
+        "Cyperus": "/wiki/Cyperus",
+        "Myrrh": "/wiki/Myrrh",
+        "Balsam": "/wiki/Balsam"
+    }
+}

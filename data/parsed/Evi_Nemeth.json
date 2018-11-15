@@ -1,0 +1,19 @@
+{
+    "uid": "https://en.wikipedia.org/wiki/Evi_Nemeth",
+    "name": "Evi Nemeth",
+    "has_infobox": true,
+    "born": "(1940-06-07)June 7, 1940",
+    "text": "",
+    "links": {
+        "System administration": "/wiki/System_administration",
+        "Diffie\u2013Hellman problem": "/wiki/Diffie%E2%80%93Hellman_problem",
+        "Cryptography": "/wiki/Cryptography",
+        "Penn State": "/wiki/Penn_State",
+        "University of Waterloo": "/wiki/University_of_Waterloo",
+        "Sabbatical": "/wiki/Sabbatical",
+        "Unix": "/wiki/Unix",
+        "Steve Wozniak": "/wiki/Steve_Wozniak",
+        "ACM International Collegiate Programming Contest": "/wiki/ACM_International_Collegiate_Programming_Contest",
+        "CAIDA": "/wiki/CAIDA"
+    }
+}
